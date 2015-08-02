@@ -15,7 +15,7 @@ public class SimpleResto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("i will put everything on github ");
+        System.out.println("its ok ");
         // TODO code application logic here
     }
     
